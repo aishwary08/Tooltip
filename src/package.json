@@ -1,0 +1,11 @@
+{
+  "title": "Material demo",
+  "description":
+    "https://github.com/mui-org/material-ui/tree/master/docs/src/pages/demos/tooltips/ControlledTooltips.js",
+  "dependencies": {
+    "@material-ui/core": "latest",
+    "@material-ui/icons": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  }
+}

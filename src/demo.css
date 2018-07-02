@@ -1,0 +1,12 @@
+.outer{
+    padding: 150px;
+}
+
+.my-tooltip > .tooltip-inner {
+    background-color: #fff;
+    border: 1px solid #fff;
+  }
+  
+  .my-tooltip > .tooltip-arrow {
+    border-top: 5px solid #fff !important;
+  }
